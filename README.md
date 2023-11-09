@@ -6,7 +6,7 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento estou em 
 
 **Um pouco sobre mim** :point_down:
 
-Possuo experiência em Front-End e atualmente me encontro em transição de carreira para Analista de Qualidade. Atuei durante 6 anos trabalhando como terceirizado para a Secretaria de Educação do Salvador em desenvolvi meu olhar detalhista, onde me aprimorei desenvolvendo soluções web responsiva sendo elas: sites, landing pages e sistemas web, utilizando HTML 5, CSS3 e JS. Além disso, realizava atividades relacionadas com a área de testes tais como: Testes manuais humanos em sistemas web (Funcional e Exploratório ), report de bugs e sugestão de melhorias. A partir disso me dediquei em fazer transição de carreira
+Possuo experiência em Front-End e atualmente trabalho  como Analista de Qualidade. Atuei durante 6 anos trabalhando como terceirizado para a Secretaria de Educação do Salvador em desenvolvi meu olhar detalhista, onde me aprimorei desenvolvendo soluções web responsiva sendo elas: sites, landing pages e sistemas web, utilizando HTML 5, CSS3 e JS. Além disso, realizava atividades relacionadas com a área de testes tais como: Testes manuais humanos em sistemas web (Funcional e Exploratório ), report de bugs e sugestão de melhorias. 
 
 <br>
 
