@@ -2,7 +2,7 @@
 
 
 
-Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento estou em transição de carreira para a área de Analista de Qualidade Software e Teste de Software. 
+Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando como Analista de Qualidade Software e Teste de Software. 
 
 **Um pouco sobre mim** :point_down:
 
