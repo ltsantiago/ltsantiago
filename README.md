@@ -8,15 +8,15 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 
  Sou Analista de Qualidade de Software com (QA) foco em estruturar processos, melhorar fluxos e garantir entregas com excelência,estáveis e eficientes gerando assim, alto valor para o usuário final. Tenho como principais pilares:
 
-**Aprendizado contínuo →** busco sempre evoluir minhas habilidades técnicas e de análise, explorando novas ferramentas e práticas de qualidade.
+**Aprendizado contínuo →** busco sempre evoluir minhas habilidades técnicas,pessoais e de análise, explorando novas ferramentas e práticas de qualidade.
 
-**Colaboração em equipe →** acredito que qualidade é responsabilidade de todos, e atuo lado a lado com desenvolvedores, POs e designers para construir soluções melhores.
+**Colaboração em equipe →** acredito que qualidade é responsabilidade de todos no ciclo de desenvolvimento, e atuo lado a lado com desenvolvedores, POs e designers/pds para construir soluções melhores e eficazes.
 
 **Melhoria de processos →** procuro enxergar oportunidades de otimização no ciclo de desenvolvimento.
 
-**Foco na experiência do usuário →** além de validar requisitos funcionais, me preocupo com desempenho, acessibilidade e usabilidade. Atuando com relatorios sobre CORE WEB VITALS( CLS,LCP,INP) 
+**Foco na experiência do usuário →** além de validar requisitos funcionais, me preocupo com desempenho, acessibilidade e usabilidade atuando com relatorios sobre CORE WEB VITALS( CLS,LCP,INP, TBT, SI) 
 
-**Mentalidade preventiva →** mais do que encontrar defeitos, trabalho para evitá-los por meio de boas práticas de testes.
+**Mentalidade preventiva →** mais do que encontrar defeitos, trabalho para evitá-los por meio de boas práticas.
 
 <br>
 
@@ -35,7 +35,8 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 ### Frameworks
 ---
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]() [![Cypess](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white
-)]() [![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)]() [![Codeceptjs](https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000)]()
+)]() [![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)]() [![Codeceptjs](https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000)]() [![MOCHA](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)]() [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)]()
+
 
 <br>
 
@@ -54,10 +55,9 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 <br>
 
 
-### Automação Web
+### Automação Web / API
 ---
-[![Projeto Automação Playwright](https://github.com/user-attachments/assets/82556174-6477-4115-88c7-96fa6f6793db)](https://github.com/ltsantiago/automacao-playwright)
-[![Projeto Automação Cypress](https://github.com/user-attachments/assets/4975982c-9a73-4fe6-8f34-6201cac186a9")](https://github.com/ltsantiago/automation-pdi-cypress)
+[![Projeto Automação Playwright](https://github.com/user-attachments/assets/82556174-6477-4115-88c7-96fa6f6793db)](https://github.com/ltsantiago/automacao-playwright) | [![Projeto Automação Cypress](https://github.com/user-attachments/assets/4975982c-9a73-4fe6-8f34-6201cac186a9)](https://github.com/ltsantiago/automation-pdi-cypress)
 
 
 <br>
