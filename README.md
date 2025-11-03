@@ -59,7 +59,7 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 ---
 [![Projeto Automação Playwright](https://github.com/user-attachments/assets/82556174-6477-4115-88c7-96fa6f6793db)](https://github.com/ltsantiago/automacao-playwright) |  [![Projeto Automação Cypress](https://github.com/user-attachments/assets/4975982c-9a73-4fe6-8f34-6201cac186a9)](https://github.com/ltsantiago/automation-pdi-cypress)
 
-[![Projeto web /api ](https://github.com/user-attachments/assets/8863f225-83f6-44ee-a062-d93d3df83ab1)](https://github.com/RodrigoJose-Silva/desafio_03.1) [![Projeto Automação Playwright -Saucedemo]
+[![Projeto web /api ](https://github.com/user-attachments/assets/8863f225-83f6-44ee-a062-d93d3df83ab1)](https://github.com/RodrigoJose-Silva/desafio_03.1) [![Projeto Automação Playwright -Saucedemo](<img width="836" height="545" alt="Image" src="https://github.com/user-attachments/assets/fa2f9dc7-95c3-416e-8525-e866664bb2d6" />)]
 <br>
 
 ### Contato
