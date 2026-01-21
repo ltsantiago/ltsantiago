@@ -62,6 +62,12 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 [![Projeto web /api ](https://github.com/user-attachments/assets/8863f225-83f6-44ee-a062-d93d3df83ab1)](https://github.com/RodrigoJose-Silva/desafio_03.1) [![Projeto Automação Playwright - Saucedemo](https://github.com/user-attachments/assets/fa2f9dc7-95c3-416e-8525-e866664bb2d6)](https://github.com/ltsantiago/projeto-saucedemo-playwright) 
 <br>
 
+### Automação Mobile 
+---
+[![Projeto Automação Mobile Maestro](https://github.com/user-attachments/assets/0e8171ff-9735-43c8-97dc-1a112e99e8b8)](https://github.com/ltsantiago/Mobile-Maestro-Portfolio) 
+
+<br>
+
 ### Contato
 ---
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltsantiago88@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-tiago/) 
