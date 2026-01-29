@@ -6,17 +6,20 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 
 **Um pouco sobre mim** :point_down:
 
- Sou Analista de Qualidade de Software com (QA) foco em estruturar processos, melhorar fluxos e garantir entregas com excelência,estáveis e eficientes gerando assim, alto valor para o usuário final. Tenho como principais pilares:
-
-**Aprendizado contínuo →** busco sempre evoluir minhas habilidades técnicas,pessoais e de análise, explorando novas ferramentas e práticas de qualidade.
-
-**Colaboração em equipe →** acredito que qualidade é responsabilidade de todos no ciclo de desenvolvimento, e atuo lado a lado com desenvolvedores, POs e designers/pds para construir soluções melhores e eficazes.
-
-**Melhoria de processos →** procuro enxergar oportunidades de otimização no ciclo de desenvolvimento.
-
-**Foco na experiência do usuário →** além de validar requisitos funcionais, me preocupo com desempenho, acessibilidade e usabilidade atuando com relatorios sobre CORE WEB VITALS( CLS,LCP,INP, TBT, SI) 
-
-**Mentalidade preventiva →** mais do que encontrar defeitos, trabalho para evitá-los por meio de boas práticas.
+Profissional de Quality Assurance (QA Engineer) com sólida experiência em garantia de qualidade end-to-end,
+atuando desde a definição de requisitos e critérios de aceitação até validações pós-release em produção. Forte
+atuação em testes funcionais e não funcionais, automação E2E com Playwright (Page Object Model), testes de
+APIs REST, performance e confiabilidade de sistemas web. Possui background em Desenvolvimento Front-End,
+o que amplia a visão técnica, a colaboração com engenharia e a antecipação de riscos de qualidade.
+Experiência prática em ambientes ágeis (Scrum e Kanban), trabalhando de forma integrada com produto,
+Design e engenharia para garantir entregas alinhadas ao valor de negócio e à experiência do usuário.
+Atuação consistente em escrita de cenários BDD com sintaxe em Gherkin, gestão de defeitos e incidentes
+(Jira/Azure), análise de dados em SQL e Elasticsearch/Kibana, além de testes de carga com K6. Perfil analítico,
+colaborativo e orientado à melhoria contínua, com participação ativa na evolução de práticas de QA, liderança e
+disseminação de cultura de qualidade.
+Detém conhecimentos em Playwright, Cypress, Postman, Maestro, K6, SQL, MongoDB, Elasticsearch, Kibana,
+Jira, Git/GitHub, metodologias ágeis (Scrum e Kanban), testes manuais, testes mobile, web e api, além de
+fundamentos sólidos em engenharia de qualidade de software.
 
 <br>
 
