@@ -6,20 +6,19 @@ Me chamo Lucas Tiago, Formado em Sistemas para Internet. Neste momento atuando c
 
 **Um pouco sobre mim** :point_down:
 
-Profissional de Quality Assurance (QA Engineer) com sólida experiência em garantia de qualidade end-to-end,
-atuando desde a definição de requisitos e critérios de aceitação até validações pós-release em produção. Forte
-atuação em testes funcionais e não funcionais, automação E2E com Playwright (Page Object Model), testes de
-APIs REST, performance e confiabilidade de sistemas web. Possui background em Desenvolvimento Front-End,
-o que amplia a visão técnica, a colaboração com engenharia e a antecipação de riscos de qualidade.
-Experiência prática em ambientes ágeis (Scrum e Kanban), trabalhando de forma integrada com produto,
-Design e engenharia para garantir entregas alinhadas ao valor de negócio e à experiência do usuário.
-Atuação consistente em escrita de cenários BDD com sintaxe em Gherkin, gestão de defeitos e incidentes
-(Jira/Azure), análise de dados em SQL e Elasticsearch/Kibana, além de testes de carga com K6. Perfil analítico,
-colaborativo e orientado à melhoria contínua, com participação ativa na evolução de práticas de QA, liderança e
-disseminação de cultura de qualidade.
-Detém conhecimentos em Playwright, Cypress, Postman, Maestro, K6, SQL, MongoDB, Elasticsearch, Kibana,
-Jira, Git/GitHub, metodologias ágeis (Scrum e Kanban), testes manuais, testes mobile, web e api, além de
-fundamentos sólidos em engenharia de qualidade de software.
+Sou QA Engineer / Analista de Qualidade de Software Pleno, com sólida experiência em garantia de qualidade end-to-end (E2E), atuando desde a definição de requisitos, critérios de aceitação e user stories até validações pós-release em produção.
+
+Atuo fortemente em testes manuais e automatizados, cobrindo aplicações Web, Mobile, APIs REST, com experiência em testes funcionais, exploratórios, regressão e testes não funcionais, incluindo performance, confiabilidade, acessibilidade e usabilidade. 
+
+Possuo domínio do ciclo de vida de defeitos, gestão de incidentes e validações em ambientes de homologação e produção, assegurando entregas estáveis e alinhadas ao produto.
+
+Tenho experiência prática em automação de testes E2E com Playwright (Javascript) utilizando Page Object Model, além de vivência com Cypress, Jest e Maestro. Atuo também em testes de API com Postman/Insomnia, além de testes de carga e performance com K6, validação de dados com SQL, além de análises em Elasticsearch e Kibana.
+
+Experiência prática em ambientes ágeis (Scrum e Kanban), trabalhando de forma integrada com produto, Design e engenharia para garantir entregas alinhadas ao valor de negócio e à experiência do usuário, aplicando práticas do Software Testing Life Cycle (STLC), Agile Testing e BDD (Gherkin) para garantir rastreabilidade, clareza e eficiência nos testes. 
+
+Utilizo ferramentas como Jira, Azure DevOps, AIO Tests, Git e GitHub, familiaridade em CI/CD (GitHub Actions) e Docker.
+
+Possuo background em Desenvolvimento Front-End, o que amplia minha visão técnica, melhora a comunicação com desenvolvedores e permite antecipação de riscos de qualidade.
 
 <br>
 
